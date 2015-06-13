@@ -1,0 +1,1 @@
+covia-opensource-smartq5-android-froyo
